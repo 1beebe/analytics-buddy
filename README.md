@@ -1,9 +1,5 @@
 # analytics-buddy
-MindStudio-powered browser extension workflow for capturing personal social media analytics and exporting to Google Sheets.
-
-# Analytics Buddy
-
-> A MindStudio-powered browser extension that captures **personal social media** post analytics from the page, converts them into CSV, and updates a connected Google Sheet. The sheet runs simple formulas for insights, which can be fetched back into MindStudio.
+A MindStudio-powered browser extension that captures **personal social media** post analytics from the page, converts them into CSV, and updates a connected Google Sheet. The sheet runs simple formulas for insights, which can be fetched back into MindStudio.
 
 ## Demo
 ![Analytics Buddy Demo](assets/demo.gif)  
@@ -39,3 +35,12 @@ This project is for **personal analytics** only. It does not expose live agents 
 ---
 
 ## Repo Map
+analytics-buddy/
+├── README.md
+├── assets/
+│ └── demo.gif
+├── prompts/
+│ └── csv-generation.md
+├── data-samples/
+│ └── sample-analytics.csv
+
