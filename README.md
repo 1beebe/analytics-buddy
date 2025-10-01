@@ -35,12 +35,16 @@ This project is for **personal analytics** only. It does not expose live agents 
 ---
 
 ## Repo Map
+## Repo Map
+
+```text
 analytics-buddy/
 ├── README.md
 ├── assets/
-│ └── demo.gif
+│   └── demo.gif
 ├── prompts/
-│ └── csv-generation.md
-├── data-samples/
-│ └── sample-analytics.csv
+│   └── csv-generation.md
+└── data-samples/
+    └── sample-analytics.csv
+```
 
