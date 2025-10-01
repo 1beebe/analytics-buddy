@@ -35,7 +35,6 @@ This project is for **personal analytics** only. It does not expose live agents 
 ---
 
 ## Repo Map
-## Repo Map
 
 ```text
 analytics-buddy/
